@@ -1,15 +1,4 @@
-# Basic Sample Hardhat Project
+# Buildspace Wave Portal project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+My name is Ammar Alinur, and I'm an aspiring Solidity developer as well as a Full Stack Engineer. In this project, I learned a couple basic Solidity skills, including, how to fund a contract, creating contracts and uploading them to a testnet, incorporating smart contracts into a website and creating an interface for users to easily interact with the blockchain. I hope to continue my work and build out cooler projects in the future!
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
