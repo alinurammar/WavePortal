@@ -4,10 +4,8 @@ My name is Ammar Alinur, and I'm an aspiring Solidity developer as well as a Ful
 # Description
 I built out an easy to use platform that allows any user to connect their metmask wallet to the website and wave to me. After a user connects their wallet, they have the ability to type a message and send that message to me onchain. In order to wave, it requires a small amount of Eth, and will be stored on the website using the Rinkeby testnet blockchain network. There is an added functionality of rewarding a user for waving - each user has a 50% chance of winning a small amount of Ethereum for as long as the contract is still funded. 
 
-You can interact with the project [here](https://waveportal-starter-project.aammaarr.repl.co/?)
-* Must be on the rinkeby network
-
-
+<!-- You can interact with the project [here](https://waveportal-starter-project.aammaarr.repl.co/?) -->
+<!-- * Must be on the rinkeby network -->
 You can take a look at the transaction history [here](https://rinkeby.etherscan.io/address/0xdcabfa3e2256a9401723ca85341b301bb89d078d)
 
 Below is some images of what my work looked like: 
