@@ -4,7 +4,7 @@ My name is Ammar Alinur, and I'm an aspiring Solidity developer as well as a Ful
 # Description
 I built out an easy to use platform that allows any user to connect their metmask wallet to the website and wave to me. After a user connects their wallet, they have the ability to type a message and send that message to me onchain. In order to wave, it requires a small amount of Eth, and will be stored on the website using the Rinkeby testnet blockchain network. There is an added functionality of rewarding a user for waving - each user has a 50% chance of winning a small amount of Ethereum for as long as the contract is still funded. 
 
-You can interact with the project [here](https://waveportal-starter-project.aammaarr.repl.co/?)
+You can interact with the project (works better on web)[here](https://waveportal-starter-project.aammaarr.repl.co/?)
 * Currently the website is down, but I am working on putting up a functional website soon! Thanks for your patience :)
 
 
