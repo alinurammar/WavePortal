@@ -8,4 +8,5 @@ You can interact with the project [here](https://waveportal-starter-project.aamm
 
 You can take a look at the transaction history [here](https://rinkeby.etherscan.io/address/0xdcabfa3e2256a9401723ca85341b301bb89d078d)
 
-Below is some images of what my work looked like: 
+Below is some images of what my work looked like: ![Screen Shot 2022-02-28 at 1 54 09 PM](https://user-images.githubusercontent.com/59621105/156064957-af247428-92df-4ad9-a0dd-f92cd95bad39.png)
+
