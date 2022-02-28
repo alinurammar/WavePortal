@@ -4,6 +4,8 @@ My name is Ammar Alinur, and I'm an aspiring Solidity developer as well as a Ful
 
 You can interact with the project [here](https://waveportal-starter-project.aammaarr.repl.co/?)
 * Must be on the rinkeby network
+
+
 You can take a look at the transaction history [here](https://rinkeby.etherscan.io/address/0xdcabfa3e2256a9401723ca85341b301bb89d078d)
 
 Below is some images of what my work looked like: 
